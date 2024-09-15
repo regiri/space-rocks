@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_rock_small",
-    "path":"sprites/spr_rock_small/spr_rock_small.yy",
+    "name":"Sprite6",
+    "path":"sprites/Sprite6/Sprite6.yy",
   },
   "spriteMaskId":null,
   "visible":true,
