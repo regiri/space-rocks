@@ -18,10 +18,13 @@
     {"name":"obj_big_rock","order":3,"path":"objects/obj_big_rock/obj_big_rock.yy",},
     {"name":"obj_bullet","order":1,"path":"objects/obj_bullet/obj_bullet.yy",},
     {"name":"obj_small_rock","order":2,"path":"objects/obj_small_rock/obj_small_rock.yy",},
+    {"name":"Object5","order":4,"path":"objects/Object5/Object5.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"main_background","order":4,"path":"sprites/main_background/main_background.yy",},
+    {"name":"penis","order":14,"path":"sprites/penis/penis.yy",},
     {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
     {"name":"spr_rock_big","order":2,"path":"sprites/spr_rock_big/spr_rock_big.yy",},
     {"name":"spr_rock_small","order":3,"path":"sprites/spr_rock_small/spr_rock_small.yy",},
+    {"name":"Sprite6","order":14,"path":"sprites/Sprite6/Sprite6.yy",},
   ],
 }

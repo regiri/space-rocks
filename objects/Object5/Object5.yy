@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_small_rock",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Object5",
+  "eventList":[],
   "managed":true,
-  "name":"obj_small_rock",
+  "name":"Object5",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite6",
-    "path":"sprites/Sprite6/Sprite6.yy",
+    "name":"penis",
+    "path":"sprites/penis/penis.yy",
   },
   "spriteMaskId":null,
   "visible":true,
